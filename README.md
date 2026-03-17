@@ -1,8 +1,15 @@
-## Hi there 👋
+<div align="center">
+   <img width=100% src=https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true />
+</div>
+<picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
 Soy Ricardo Garcia
-me encata la programacion y la ciberseguridad
-
+me encanta la programacion y la ciberseguridad
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=astro,css,javascript,html,nodejs" />
+  </a>
+</p>
 <!--
 **SCORP1ION/SCORP1ION** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
