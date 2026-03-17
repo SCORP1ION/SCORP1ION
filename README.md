@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Soy Ricardo Ivan Garcia Ramos
+Soy Ricardo Garcia
 me encata la programacion y la ciberseguridad
 
 <!--
