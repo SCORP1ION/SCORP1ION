@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+Soy Ricardo Ivan Garcia Ramos
+me encata la programacion y la ciberseguridad
+
 <!--
 **SCORP1ION/SCORP1ION** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
