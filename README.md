@@ -8,7 +8,7 @@ me encanta la programacion y la ciberseguridad, me encanta el desarrollo de soft
 <div align="center">
    <p>Skills</p>
          <a href="https://skillicons.dev">
-           <img src="https://skillicons.dev/icons?i=astro,css,javascript,html,nodejs"/>
+           <img src="https://skillicons.dev/icons?i=astro,css,javascript,html,nodejs,nextjs" width=400px/>
          </a>
      </div>
 </p>
